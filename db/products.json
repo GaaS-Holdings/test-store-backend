@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Full Stack",
+    "tagline": "The complete set",
+    "description": "Full Stack is a system of four nootropic blends designed to provide energy & focus, improve memory, protect your brain and body, and improve sleep quality.",
+    "desktop_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/fullStackProductShotWhite.jpg",
+    "tablet_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/fullStackCondensedProductShotWhite.jpg",
+    "mobile_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/fullStackCondensedProductShotWhite.jpg"
+  },
+  {
+    "name": "Go Cubes",
+    "tagline": "Chewable coffee",
+    "description": "GO Cubes combine the kick of coffee with the relaxation of green tea. Instead of putting your coffee in a cup, you can put it in your pocket, for performance on the go.",
+    "desktop_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/goCubes4PackProductShotWhite-2.jpg",
+    "tablet_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/goCubes4PackProductShotWhite-2.jpg",
+    "mobile_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/goCubes4PackProductShotWhite-2.jpg"
+  },
+  {
+    "name": "Rise",
+    "tagline": "The daily nootropics",
+    "description": "Rise is a daily nootropic stack for your brain and mind–supporting memory, mood, and long-term cognitive resilience.",
+    "desktop_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/riseProductShotWhite.jpg",
+    "tablet_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/riseProductShotWhite.jpg",
+    "mobile_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/riseProductShotWhite.jpg"
+  },
+  {
+    "name": "Kado-3",
+    "tagline": "Super-charged Omega-3",
+    "description": "Kado is a daily-use blend of essential building blocks, designed to optimize and protect your brain and body.",
+    "desktop_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/kado3ProductShotWhite.jpg",
+    "tablet_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/kado3ProductShotWhite.jpg",
+    "mobile_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/kado3ProductShotWhite.jpg"
+  },
+  {
+    "name": "Sprint",
+    "tagline": "Get the job done",
+    "description": "Sprint® is a nootropic stack designed to promote alertness, focus and relaxation–putting you in the ideal mental flow state to get the job done.",
+    "desktop_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/sprintProductShotWhite.jpg",
+    "tablet_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/sprintProductShotWhite.jpg",
+    "mobile_image": "https://product-engineer-test-task.s3.eu-central-1.amazonaws.com/sprintProductShotWhite.jpg"
+  }
+]
