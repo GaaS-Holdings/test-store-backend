@@ -9,6 +9,8 @@ module Cart
     private
 
     def check_product
+      Rails.logger.debug(params.inspect)
+
       head :not_found unless Product.find_by(id: product_id)
     end
 
@@ -27,7 +29,7 @@ module Cart
     end
 
     def write_cart(cart)
-      cookies[:cart] = cart.to_json
+      cookies[:cart] = { value: cart.to_json, same_site: :none, secure: true }
     end
   end
 end
