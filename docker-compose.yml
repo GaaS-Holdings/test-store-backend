@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  postgres:
+    image: 'postgres:12.2'
+    volumes:
+      - 'postgres:/var/lib/postgresql/data'
+    environment:
+      - "POSTGRES_PASSWORD=postgres"
+    ports:
+      - '5432:5432'
+  app:
+    stdin_open: true
+    tty: true
+    depends_on:
+      - 'postgres'
+    build: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - '.:/app'
+      - 'gems:/usr/local/bundle'
+    command: "bundle exec rails s -b '0.0.0.0'"
+
+volumes:
+  postgres:
+  gems:

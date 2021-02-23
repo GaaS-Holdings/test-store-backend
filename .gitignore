@@ -29,3 +29,4 @@ yarn-debug.log*
 .idea
 .git
 log
+.env
