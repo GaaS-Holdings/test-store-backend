@@ -14,10 +14,7 @@ GET /products
     "id": 1,
     "name": "Name",
     "tagline": "Tagline",
-    "description": "Description",
-    "desktop_image": "https://url1",
-    "tablet_image": "https://url2",
-    "mobile_image": "https://url3"
+    "image": "https://url1"
   }
 ]
 ```
