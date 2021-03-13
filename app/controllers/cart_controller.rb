@@ -2,8 +2,6 @@
 
 class CartController < ApplicationController
   def index
-    Rails.logger.debug(cookies.to_h);
-
     render json: current_cart
   end
 
