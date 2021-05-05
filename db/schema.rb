@@ -23,5 +23,4 @@ ActiveRecord::Schema.define(version: 2020_12_04_112823) do
     t.string "tablet_image"
     t.string "mobile_image"
   end
-
 end
