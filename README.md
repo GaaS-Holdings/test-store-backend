@@ -12,9 +12,10 @@ GET /products
 [
   {
     "id": 1,
-    "name": "Name",
-    "tagline": "Tagline",
-    "image": "https://url1"
+    "name": "Rise",
+    "tagline": "Daily Nootropic For Memory",
+    "image": "https://url1",
+    "featured": false
   }
 ]
 ```

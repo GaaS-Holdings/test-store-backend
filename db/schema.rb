@@ -21,5 +21,4 @@ ActiveRecord::Schema.define(version: 2021_02_25_212400) do
     t.string "image"
     t.boolean "featured", default: true
   end
-
 end
